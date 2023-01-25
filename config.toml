@@ -1,5 +1,0 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = ''
-theme = 'hello-friends'
-publishDir = 'docs'
